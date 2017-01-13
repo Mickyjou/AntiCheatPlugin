@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AntiCheat">
+    <output-path>$USER_HOME$/Videos/1.8 Server/plugins</output-path>
+    <root id="archive" name="AntiCheat.jar">
+      <element id="module-output" name="AntiCheat" />
+    </root>
+  </artifact>
+</component>

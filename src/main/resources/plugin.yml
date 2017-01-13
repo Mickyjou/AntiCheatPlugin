@@ -1,0 +1,6 @@
+name: AntiCheat
+version: VERSION
+author: Mickyjou
+main: de.mickyjou.plugins.anticheat.AntiCheatPlugin
+softdepend: [PlayerDataStore]
+commands:
